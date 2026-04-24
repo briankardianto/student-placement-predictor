@@ -1,0 +1,46 @@
+artifact_path: file:///C:/Users/Brian Kardianto/Desktop/BINUS/BINUS-SEMESTER4/modep/UTS/mlruns/784834777448627946/models/m-725f540f775d40c9a2cd37bf12334450/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.10.0
+model_id: m-725f540f775d40c9a2cd37bf12334450
+model_size_bytes: 4870
+model_uuid: m-725f540f775d40c9a2cd37bf12334450
+prompts: null
+run_id: c9ac186c60394740a1875cd6f6144dfc
+signature:
+  inputs: '[{"type": "long", "name": "gender", "required": true}, {"type": "string",
+    "name": "branch", "required": true}, {"type": "double", "name": "cgpa", "required":
+    true}, {"type": "double", "name": "tenth_percentage", "required": true}, {"type":
+    "double", "name": "twelfth_percentage", "required": true}, {"type": "long", "name":
+    "backlogs", "required": true}, {"type": "double", "name": "study_hours_per_day",
+    "required": true}, {"type": "double", "name": "attendance_percentage", "required":
+    true}, {"type": "long", "name": "projects_completed", "required": true}, {"type":
+    "long", "name": "internships_completed", "required": true}, {"type": "long", "name":
+    "coding_skill_rating", "required": true}, {"type": "long", "name": "communication_skill_rating",
+    "required": true}, {"type": "long", "name": "aptitude_skill_rating", "required":
+    true}, {"type": "long", "name": "hackathons_participated", "required": true},
+    {"type": "long", "name": "certifications_count", "required": true}, {"type": "double",
+    "name": "sleep_hours", "required": true}, {"type": "long", "name": "stress_level",
+    "required": true}, {"type": "long", "name": "part_time_job", "required": true},
+    {"type": "string", "name": "family_income_level", "required": true}, {"type":
+    "string", "name": "city_tier", "required": true}, {"type": "long", "name": "internet_access",
+    "required": true}, {"type": "string", "name": "extracurricular_involvement", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-04-22 12:04:25.987223'

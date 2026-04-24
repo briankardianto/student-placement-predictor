@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Brian Kardianto/Desktop/BINUS/BINUS-SEMESTER4/modep/UTS/mlruns/310239611092803627/5cc87dc119ec4ecbb3c82be7b59440f2/artifacts
+end_time: 1776859536053
+entry_point_name: ''
+experiment_id: '310239611092803627'
+lifecycle_stage: active
+run_id: 5cc87dc119ec4ecbb3c82be7b59440f2
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776859531278
+status: 3
+tags: []
+user_id: Brian Kardianto

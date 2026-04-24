@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Brian Kardianto/Desktop/BINUS/BINUS-SEMESTER4/modep/UTS/mlruns/310239611092803627/3e483a6bfc7944b68e18123acf05fccf/artifacts
+end_time: 1776859550965
+entry_point_name: ''
+experiment_id: '310239611092803627'
+lifecycle_stage: active
+run_id: 3e483a6bfc7944b68e18123acf05fccf
+run_name: RandomForestRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776859545748
+status: 3
+tags: []
+user_id: Brian Kardianto

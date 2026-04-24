@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Brian Kardianto/Desktop/BINUS/BINUS-SEMESTER4/modep/UTS/mlruns/310239611092803627/71da083518cd43f191489c210b2cecac/artifacts
+end_time: 1777008362033
+entry_point_name: ''
+experiment_id: '310239611092803627'
+lifecycle_stage: active
+run_id: 71da083518cd43f191489c210b2cecac
+run_name: RF_HyperOpt_Tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777008352483
+status: 3
+tags: []
+user_id: Brian Kardianto

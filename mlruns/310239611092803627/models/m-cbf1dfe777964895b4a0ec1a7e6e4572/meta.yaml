@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Brian Kardianto/Desktop/BINUS/BINUS-SEMESTER4/modep/UTS/mlruns/310239611092803627/models/m-cbf1dfe777964895b4a0ec1a7e6e4572/artifacts
+creation_timestamp: 1776859536521
+experiment_id: '310239611092803627'
+last_updated_timestamp: 1776859540808
+model_id: m-cbf1dfe777964895b4a0ec1a7e6e4572
+model_type: null
+name: model
+source_run_id: 6153864d113e462398ab8fa54c8fcc96
+status: 2
+status_message: null

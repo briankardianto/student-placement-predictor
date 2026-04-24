@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Brian Kardianto/Desktop/BINUS/BINUS-SEMESTER4/modep/UTS/mlruns/784834777448627946/c9ac186c60394740a1875cd6f6144dfc/artifacts
+end_time: 1776859473681
+entry_point_name: ''
+experiment_id: '784834777448627946'
+lifecycle_stage: active
+run_id: c9ac186c60394740a1875cd6f6144dfc
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776859465448
+status: 3
+tags: []
+user_id: Brian Kardianto
