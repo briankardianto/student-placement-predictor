@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 # CONFIG
 # ─────────────────────────────────────────────
 
-EXP_PATH = '/exp/placement/'
+EXP_PATH = 'exp/placement/'
 
 st.set_page_config(
     page_title='Student Placement Predictor',
